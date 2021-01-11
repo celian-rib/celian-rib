@@ -3,7 +3,7 @@
   <h1 align="center">Célian Riboulet<h1/>
 <p/>
 <p align="center"> 
-  <h4>CS Student in France !<h4/>
+  <h4 align="center">CS Student in France !<h4/>
 <p/>
   
 ***
