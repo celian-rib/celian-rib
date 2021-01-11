@@ -1,9 +1,7 @@
 <p align="center"> 
   <img width="100" src="https://raw.githubusercontent.com/celian-rib/celian-rib/main/githubpic.png"/>
   <h1 align="center">Célian Riboulet<h1/>
-<p/>
-<p align="center"> 
-  <h4 align="center">CS Student in France !<h4/>
+    <h4 align="center">CS Student in France !<h4/>
 <p/>
   
 ***
