@@ -1,5 +1,5 @@
-## Hey there !
-I am a french 18 years old student working mostly on front-end stuff !
+## Hey there 👋 !
+I am Célian, a french 18 years old student working mostly on front-end stuff !
 
 ***
 Projects im working on :
