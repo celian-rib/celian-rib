@@ -15,6 +15,6 @@ I am Célian, a french 18 years old student working mostly on front-end stuff !
 
 ***
 #### I code in music !
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f8t9vent1fukbzcl5634dsw12&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify](https://spotify-github-profile.vercel.app/api/view?uid=f8t9vent1fukbzcl5634dsw12&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=f8t9vent1fukbzcl5634dsw12&redirect=true)
 
 ***
