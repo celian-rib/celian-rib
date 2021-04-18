@@ -1,5 +1,6 @@
-## Hey there 👋 !
+## Hey there <img src="https://acegif.com/wp-content/uploads/loading-42.gif" width="40"/> !
 I am Célian, a french 18 years old student working mostly on front-end stuff !
+
 
 ***
 #### Projects im working on :
