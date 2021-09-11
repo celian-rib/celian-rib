@@ -1,11 +1,7 @@
 ## Hey there 👋 !
 I am Célian, a french 19 years old student trying to bump up his skills !
 
-
-***
-
-## Developing [Silant](https://silant.net), the app that let everyone control the music!
-<img width="600px" src="https://user-images.githubusercontent.com/38594012/125208242-ad444580-e291-11eb-8a1b-96a2cd7a687d.png">
+Currently working hard on [Silant](https://silant.net), the app that let everyone control the music!
 
 ***
 
