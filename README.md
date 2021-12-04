@@ -1,5 +1,5 @@
 ## Hey there 👋 !
-I am Célian, a french 19 years old CS student trying to elevate my skills to a professional level!
+I am Célian, a french 19 years old CS student, trying to elevate my skills to a professional level!
 > Currently working hard on [Silant](https://silant.net), the app that let everyone control the music!
 
 Driven by passion 👀 !
