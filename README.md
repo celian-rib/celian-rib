@@ -1,18 +1,20 @@
-## Hey there 👋 !
-I am Célian, a french 19 years old CS student, trying to elevate my skills to a professional level!
-> Currently working hard on [Silant](https://silant.net), the app that let everyone control the music!
+<h1 align="center">Hey there 👋 !</h1>
 
-Driven by passion 👀 !
+<p align="center">I'm <b>Célian</b>, a french 19 years old CS student driven by <b>passion</b> 👀 !</p>
 
 ***
 
-<img src="https://github-readme-stats.vercel.app/api?username=celian-rib&count_private=true&show_icons=true&theme=react&hide_border=true&hide=stars"> 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=celian_rib&theme=react&hide_border=true&layout=compact"> 
+</br>
 
-***
+<h3 align="center">🔥 - Stats - 🔥</h3>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=celian-rib&count_private=true&show_icons=true&theme=react&hide_border=true"> 
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=celian_rib&theme=react&hide_border=true&layout=compact"> 
+</p>
+</br>
 
- <h3 align="center">🖥️ Tools and languages 🚀</h3>
-
+<h3 align="center">🖥️ - Tools and languages - 🖥️</h3>
+</br>
 <p align="center"> 
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
@@ -33,8 +35,11 @@ Driven by passion 👀 !
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
 </p>
 
-***
-#### I code in music!
-[![spotify](https://spotify-github-profile.vercel.app/api/view?uid=f8t9vent1fukbzcl5634dsw12&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=f8t9vent1fukbzcl5634dsw12&redirect=true)
+</br>
 
-***
+<h3 align="center">🎹 - I code in music! - 🎹</h3>
+
+<p align="center">
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=f8t9vent1fukbzcl5634dsw12&cover_image=true&theme=novatorem" />
+</p>
+
