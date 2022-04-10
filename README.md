@@ -8,8 +8,8 @@
 
 <h3 align="center">🔥 - Stats - 🔥</h3>
 <p align="center">
- <img height="170px" src="https://github-readme-stats.vercel.app/api?username=celian-rib&count_private=true&show_icons=true&theme=react&hide_border=true"> 
- <img height="170px" src="https://github-readme-stats.vercel.app/api/wakatime?username=celian_rib&theme=react&hide_border=true&layout=compact&langs_count=6"> 
+ <img height="160px" src="https://github-readme-stats.vercel.app/api?username=celian-rib&count_private=true&show_icons=true&theme=react&hide_border=true"> 
+ <img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=celian_rib&theme=react&hide_border=true&layout=compact&langs_count=6"> 
 </p>
 </br>
 
