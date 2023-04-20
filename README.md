@@ -4,6 +4,14 @@
 
 ***
 
+## Some of my projects 🚀
+
+Music mobile app: [Silant](https://silant.net)
+
+YouTube A/B Testing tool: [upthumb.io](https://upthumb.io)
+
+***
+
 </br>
 
 <h3 align="center">🔥 - Stats - 🔥</h3>
