@@ -4,7 +4,7 @@
 
 ***
 
-## Some of my projects 🚀
+## Some of my biggest projects 🚀
 
 Music mobile app: [Silant](https://silant.net)
 
