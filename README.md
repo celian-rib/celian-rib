@@ -15,10 +15,10 @@ YouTube A/B Testing tool: [upthumb.io](https://upthumb.io)
 </br>
 
 <h3 align="center">🔥 - Stats - 🔥</h3>
-<p align="center">
- <img height="160px" src="https://github-readme-stats.vercel.app/api?username=celian-rib&count_private=true&show_icons=true&theme=react&hide_border=true"> 
- <img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=celian_rib&theme=react&hide_border=true&layout=compact&langs_count=6"> 
-</p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </br>
 
 <h3 align="center">🖥️ - Tools and languages - 🖥️</h3>
