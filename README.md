@@ -19,11 +19,11 @@ YouTube A/B Testing tool: [upthumb.io](https://upthumb.io)
 <!--START_SECTION:waka-->
 
 ```text
-C++                        12 hrs 51 mins  █████████████████▓░░░░░░░   70.75 %
-Python                     3 hrs 17 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %
-CMake                      37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-YAML                       22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-Nginx configuration file   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+C++                        9 hrs 36 mins   ██████████████▒░░░░░░░░░░   57.09 %
+Python                     3 hrs 25 mins   █████░░░░░░░░░░░░░░░░░░░░   20.39 %
+CMake                      1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
+YAML                       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Java                       21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:waka-->
