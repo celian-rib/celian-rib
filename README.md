@@ -19,9 +19,10 @@ YouTube A/B Testing tool: [upthumb.io](https://upthumb.io)
 <!--START_SECTION:waka-->
 
 ```txt
-CSS          13 mins         ████████████▓░░░░░░░░░░░░   50.67 %
-TypeScript   11 mins         ███████████▒░░░░░░░░░░░░░   45.57 %
-HTML         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+TypeScript   40 mins         █████████████████░░░░░░░░   67.77 %
+CSS          14 mins         ██████░░░░░░░░░░░░░░░░░░░   24.42 %
+HTML         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 ```
 
 <!--END_SECTION:waka-->
