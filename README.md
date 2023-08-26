@@ -4,11 +4,8 @@
 
 ***
 
-## Some of my biggest projects 🚀
-
-Music mobile app: [Silant](https://silant.net)
-
-YouTube A/B Testing tool: [upthumb.io](https://upthumb.io)
+## <a href="https://celian.cloud">Check out my portfolio 🚀</a>
+> Your Ticket to My Galactic Portfolio
 
 ***
 
