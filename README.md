@@ -16,9 +16,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   11 hrs 13 mins  ████████████████████████▒   97.55 %
-Docker       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+TypeScript   5 hrs 34 mins   ███████████████████████▓░   95.28 %
+Docker       16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
 ```
 
 <!--END_SECTION:waka-->
