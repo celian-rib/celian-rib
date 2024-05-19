@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 4 hrs 36 mins   ████████████░░░░░░░░░░░░░   47.53 %
-JavaScript                 3 hrs 52 mins   ██████████░░░░░░░░░░░░░░░   39.86 %
-Python                     1 hr 3 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-JSON                       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Image (svg)                1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+JavaScript                 4 hrs 21 mins   ███████████▓░░░░░░░░░░░░░   46.36 %
+TypeScript                 3 hrs 37 mins   █████████▓░░░░░░░░░░░░░░░   38.58 %
+Python                     1 hr 3 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
+Nginx configuration file   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+JSON                       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
