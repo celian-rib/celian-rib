@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 5 hrs 46 mins   ███████████████▒░░░░░░░░░   61.14 %
-JSON                       1 hr 3 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
-Nginx configuration file   57 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
-Other                      50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
-Bash                       30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+TypeScript                 5 hrs 18 mins   ████████████████░░░░░░░░░   63.54 %
+JSON                       1 hr 3 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
+Nginx configuration file   57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
+Other                      50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
+Docker                     11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 ```
 
 <!--END_SECTION:waka-->
