@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋 !</h1>
 
-<p align="center">I'm <b>Célian</b>, a french 20 years old CS student driven by <b>passion</b> 👀 !</p>
+<p align="center">I'm <b>Célian</b>, a french 21 years old CS student driven by <b>passion</b> 👀 !</p>
 
 ***
 
