@@ -3,10 +3,6 @@
 <p align="center">I'm <b>Célian</b>, a french 22 years old software engineer driven by <b>passion</b> 👀 !</p>
 <p align="center"><a href="https://celian.cloud">Check out my portfolio 🚀</p>
 
-
-<h3 align="center">🔥 - Coding time - 🔥</h3>
-<p align="center"><i>But coding is the easy part</i></p>
-
 <!--START_SECTION:waka-->
 
 ```txt
