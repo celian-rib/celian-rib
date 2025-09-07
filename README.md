@@ -7,8 +7,6 @@
   <a href="https://doctolib.com">Where I work 👨‍⚕️ (Doctolib)</a> 
   ‎ •‎ 
   <a href="https://freewaitlists.com">Latest project (freewaitlists.com) 📋</a> 
-  ‎ •‎‎ ‎
-  <a href="https://hello-clari.fr">SaaS under validation (hello-clari.fr) ⏳</a> 
 </p>
 
 <!--START_SECTION:waka-->
