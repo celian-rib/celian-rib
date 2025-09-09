@@ -12,7 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   1 hr 37 mins    ████████████▒░░░░░░░░░░░░   49.07 %
+MDX          54 mins         ███████░░░░░░░░░░░░░░░░░░   27.47 %
+Prisma       18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
+JavaScript   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Markdown     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
 ```
 
 <!--END_SECTION:waka-->
