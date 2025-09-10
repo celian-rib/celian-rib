@@ -5,8 +5,6 @@
   <a href="https://celian.cloud">My portfolio (2023) 🚀</a> 
   ‎ •‎ 
   <a href="https://doctolib.com">Where I work 👨‍⚕️ (Doctolib)</a> 
-  ‎ •‎ 
-  <a href="https://freewaitlists.com">Latest project (freewaitlists.com) 📋</a> 
 </p>
 
 <!--START_SECTION:waka-->
