@@ -10,11 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby         8 hrs 33 mins   ████████▒░░░░░░░░░░░░░░░░   33.34 %
-TypeScript   7 hrs 59 mins   ███████▓░░░░░░░░░░░░░░░░░   31.14 %
-Kotlin       4 hrs 31 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
-YAML         1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-JavaScript   1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+TypeScript   10 hrs 8 mins   █████████▒░░░░░░░░░░░░░░░   37.22 %
+Ruby         9 hrs 15 mins   ████████▒░░░░░░░░░░░░░░░░   33.94 %
+Kotlin       2 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
+YAML         1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+JavaScript   1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
 ```
 
 <!--END_SECTION:waka-->
