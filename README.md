@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://celian.cloud">My portfolio (2023) 🚀</a> 
   ‎ •‎ 
-  <a href="https://doctolib.com">Where I work 👨‍⚕️ (Doctolib)</a> 
+  <a href="https://rodgerstudio.com">Where I work 👨‍⚕️ (RodgerStudio)</a> 
 </p>
 
 <!--START_SECTION:waka-->
